@@ -1,0 +1,93 @@
+/* .main{
+    display: block;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: blue;
+} */
+.main{
+    background-color: #ddebf8;
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    border: 6px solid #d8cefe;
+    border-radius: 6px;
+    color: #2b2839;
+    
+}
+h1{
+    width: 400PX;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.img1{
+    width: 500PX;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+
+}
+p{
+    width: 500PX;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+}
+.img2{
+    width: 150px;
+    height: 170px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.imgs{
+    display: flex;
+    justify-content: center;
+
+}
+.inp{
+    width: 200PX;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    margin-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+
+}
+button{
+    width: 268PX;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    margin-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    font-size: large;
+    font-weight: bolder;
+    
+    
+
+}
+.last{
+    width: 500PX;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+
+}
